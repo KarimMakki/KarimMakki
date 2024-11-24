@@ -1,6 +1,6 @@
 ## Hi there, I'm Karim Makki 👋
 
-Proficient in Flutter's robust framework to deliver seamless user experiences across Android and iOS. Skilled in UI/UX design, responsive layouts, and optimising app performance. Ready to bring creativity and innovation to your team, besides working with Flutter, I had a short experience with native Android Developement as a freelancer.
+Proficient in **Flutter's robust framework** to deliver seamless user experiences across Android and iOS. Skilled in UI/UX design, responsive layouts, and optimising app performance. Ready to bring creativity and innovation to your team, besides working with Flutter, I had a short experience with native Android Developement as a freelancer.
 
 Previously, I was focused on web development using Wordpress and performing custom modifications using HTML,CSS & Javascript.
 

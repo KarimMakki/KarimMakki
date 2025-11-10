@@ -15,6 +15,9 @@ Besides working with Flutter, I have some experience with native Android develop
  <a href="https://kotlinlang.org/" title="Kotlin"><img src="icons/kotlin.png" alt="Kotlin" width="30" height="30" /></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="icons/html.png" alt="HTML" width="30" height="30" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="icons/css.png" alt="CSS" width="30" height="30" /></a>
+ <a href="https://www.javascript.com/" title="JavaScript"><img src="icons/javascript.png" alt="JavaScript" width="30" height="30" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" alt="Python" width="30" height="30" /></a>
+ <a href="https://www.djangoproject.com/" title="Django"><img src="icons/django.png" alt="Django" width="30" height="30" /></a>
 
   </div>
 
@@ -35,9 +38,7 @@ Besides working with Flutter, I have some experience with native Android develop
 - **Languages & Frameworks:**
 
 <div style="display: flex; gap: 10px; align-items: center;">
-   <a href="https://www.python.org/" title="Python"><img src="icons/python.png" alt="Python" width="30" height="30" /></a>
-   <a href="https://www.javascript.com/" title="JavaScript"><img src="icons/javascript.png" alt="JavaScript" width="30" height="30" /></a>
-   <a href="https://www.djangoproject.com/" title="Django"><img src="icons/django.png" alt="Django" width="30" height="30" /></a>
+ <a href="https://react.dev/" title="React"><img src="icons/react.png" alt="React" width="30" height="30" /></a>
   </div>
 
 ## How to Reach Me
